@@ -1,0 +1,19 @@
+@font-face {
+    font-family: clock;
+    src: url("./Digital\ Dismay.otf");
+}
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: clock;
+}
+body{
+    margin: 200px  ;
+    text-align: center;
+    background-color: black;
+}
+
+.box h1{
+    font-size: 100px;
+    color: red;
+}
